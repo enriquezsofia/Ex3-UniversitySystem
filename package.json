@@ -1,0 +1,12 @@
+{
+  "name": "ex3-universitysystem",
+  "version": "1.0.0",
+  "description": "This is my approach to solving exercise 3 of the [Programming Skills](https://github.com/blindma1den/Programming-Skills-Level0/blob/main/level_0.txt) challenge.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Sofia Denisse",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^16.8.1"
+  }
+}
